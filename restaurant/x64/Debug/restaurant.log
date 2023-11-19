@@ -1,0 +1,23 @@
+﻿  functions.c
+  main.c
+C:\Users\dvirb\Desktop\functions.c(14,17): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\dvirb\Desktop\functions.c(14,17): warning C4024: 'Appers': different types for formal and actual parameter 2
+C:\Users\dvirb\Desktop\functions.c(22,55): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\dvirb\Desktop\functions.c(28,4): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\dvirb\Desktop\functions.c(88,8): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\dvirb\Desktop\functions.c(422,6): warning C4133: '=': incompatible types - from 'kitchen *' to 'mange *'
+C:\Users\dvirb\Desktop\functions.c(430,16): warning C4047: 'function': 'MangeTable *' differs in levels of indirection from 'Manot **'
+C:\Users\dvirb\Desktop\functions.c(430,16): warning C4024: 'deletetable': different types for formal and actual parameter 1
+C:\Users\dvirb\Desktop\functions.c(385,6): warning C4101: 'i': unreferenced local variable
+C:\Users\dvirb\Desktop\functions.c(527,9): warning C4129: '*': unrecognized character escape sequence
+C:\Users\dvirb\Desktop\functions.c(528,9): warning C4129: '*': unrecognized character escape sequence
+C:\Users\dvirb\Desktop\functions.c(529,9): warning C4129: '*': unrecognized character escape sequence
+C:\Users\dvirb\Desktop\functions.c(530,9): warning C4129: '*': unrecognized character escape sequence
+C:\Users\dvirb\Desktop\main.c(79,55): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\dvirb\Desktop\main.c(79,55): warning C4024: 'RemoveTable': different types for formal and actual parameter 6
+C:\Users\dvirb\Desktop\main.c(79,61): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\dvirb\Desktop\main.c(79,61): warning C4024: 'RemoveTable': different types for formal and actual parameter 7
+C:\Users\dvirb\Desktop\main.c(79,75): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\dvirb\Desktop\main.c(79,75): warning C4024: 'RemoveTable': different types for formal and actual parameter 8
+  Generating Code...
+  restaurant.vcxproj -> C:\Users\dvirb\source\repos\restaurant\x64\Debug\restaurant.exe

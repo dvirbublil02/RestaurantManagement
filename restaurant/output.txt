@@ -1,0 +1,28 @@
+The kitchen was created
+4 Pasta Were added to the kitchen
+We dont have Bamba in the kitchen
+We dont have Falafel in the kitchen
+4 Pasta were added to the table number 5 
+9 Steak were added to the table number 7 
+Sory the Quantity that you want is not Allow, you cant order -5 Steak
+5 Steak were added to the table number 1 
+2 Fish were added to the table number 5 
+4 Fish were added to the table number 6 
+1 Fish were added to the table number 1 
+5 Steak were added to the table number 2 
+2 Fish were added to the table number 13 
+Sory the Quantity that you want is not available We dont have 4 Fish in the kitchen
+We dont have Bamba in the kitchen
+1 Steak was returned to the kitchen from the table number 1
+1 Pasta was returned to the kitchen from the table number 5
+4 Cake was returned to the kitchen from the table number 1
+Table number 3 is empty!
+Table number 1 You Order: 1 Fish, 20 nis,please!
+Table number 2 You Order: 5 Steak, 125 nis,please!
+Table number 5 You Order: 2 Fish, 3 Pasta, 130 nis,please!
+Table number 7 You Order: 9 Steak, 225 nis,please!
+Table number 3 didnt order anything
+Table number 6 You Order: 4 Fish, 80 nis,please!
+Table number 13 You Order: 2 Fish, 40 nis,please!
+Table number 14 didnt order anything
+The most popular dish today is: Steak !(was orderd 19 times)
